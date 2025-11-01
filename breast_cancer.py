@@ -61,3 +61,5 @@ accuracies = pd.DataFrame(accuracies, columns=["algorithms", "accuracy"])
 accuracies=accuracies.sort_values("accuracy",ascending=False)
 print(accuracies)
 print("Malek")
+print("Egypt is world mother")
+
